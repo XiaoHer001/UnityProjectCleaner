@@ -6,24 +6,23 @@
 
 ---
 
-## **安装步骤**
+## **下载指引**
 
-### **第一步：**
+**注意：既可以通过`ZIP`下载压缩包，也可以直接从侧边`Releases`下载`.exe`文件。**
 
-![安装教程01](https://github.com/user-attachments/assets/0cd458a4-e9b8-445c-9ce6-96da9e0ade4a)
+![使用教程02](https://github.com/user-attachments/assets/9c9fc346-5c44-4ede-a5ef-a4662a123570)
 
-### **第二步：**
+## **使用教程**
 
-![安装教程02](https://github.com/user-attachments/assets/4d4a9077-d0aa-4760-b329-d31affa4848f)
+![使用教程](https://github.com/user-attachments/assets/92f3c92d-ce42-4b90-98cb-7a9e1e85da68)
 
-### **第三步：**
+**注意：直接从侧边`Releases`下载的`.exe`文件，直接双击运行即可。**
 
-![安装教程03](https://github.com/user-attachments/assets/90493fad-14c1-4c53-aa9d-ba01766fa5ff)
+![使用教程03](https://github.com/user-attachments/assets/778b7e2d-f5f4-4952-a028-45ed9f70d230)
 
+## **Gitee同理操作**
 
-### **第四步：**
-
-![安装教程04](https://github.com/user-attachments/assets/27428129-2412-4b3d-8701-95956abeca8e)
+![使用教程04](https://github.com/user-attachments/assets/daa0ed91-da7b-49ec-94f3-b62ef31b7c8d)
 
 ---
 
@@ -67,7 +66,7 @@
 
 ---
 
-## **优势**
+## **项目优势**
 
 - 快速提升清理效率，优化Unity项目结构。  
 - 操作简单直观，安全性高，适合个人开发者使用。  
