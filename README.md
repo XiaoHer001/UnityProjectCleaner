@@ -6,6 +6,10 @@
 
 ---
 
+![操作提示](https://github.com/user-attachments/assets/e13cb19f-d4a8-45d2-9498-af47cf95e27f)
+
+---
+
 ## **核心功能**
 
 1. **路径选择**  
