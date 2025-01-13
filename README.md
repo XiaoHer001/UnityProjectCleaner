@@ -8,7 +8,7 @@
 
 ## **下载指引**
 
-**注意：既可以通过`ZIP`下载压缩包，也可以直接从侧边`Releases`下载`.exe`文件**
+**注意：既可以通过`ZIP`下载压缩包，也可以直接从侧边`Releases`下载`.exe`文件。**
 
 ![使用教程02](https://github.com/user-attachments/assets/9c9fc346-5c44-4ede-a5ef-a4662a123570)
 
@@ -16,7 +16,13 @@
 
 ![使用教程](https://github.com/user-attachments/assets/92f3c92d-ce42-4b90-98cb-7a9e1e85da68)
 
-**注意：直接从侧边`Releases`下载的`.exe`文件，直接双击运行即可**
+**注意：直接从侧边`Releases`下载的`.exe`文件，直接双击运行即可。**
+
+![使用教程03](https://github.com/user-attachments/assets/778b7e2d-f5f4-4952-a028-45ed9f70d230)
+
+## **Gitee同理操作**
+
+![使用教程04](https://github.com/user-attachments/assets/daa0ed91-da7b-49ec-94f3-b62ef31b7c8d)
 
 ---
 
