@@ -1,12 +1,24 @@
 # Unity工程文件精简小工具
 
-## 功能概述
+## **功能概述**
 
 该工具旨在帮助开发者快速清理Unity项目中的临时文件和无关文件，仅保留必要文件夹，提升项目管理效率，同时确保操作的安全性和可控性。
 
 ---
 
-![操作提示](https://github.com/user-attachments/assets/e13cb19f-d4a8-45d2-9498-af47cf95e27f)
+## **安装步骤**
+
+## **第一步：**
+
+![安装教程01](https://github.com/user-attachments/assets/0cd458a4-e9b8-445c-9ce6-96da9e0ade4a)
+
+## **第二步：**
+
+![安装教程02](https://github.com/user-attachments/assets/4d4a9077-d0aa-4760-b329-d31affa4848f)
+
+## **第三步：**
+
+![安装教程03](https://github.com/user-attachments/assets/5b825b75-f435-4377-9e76-bcb7f36e25ad)
 
 ---
 
