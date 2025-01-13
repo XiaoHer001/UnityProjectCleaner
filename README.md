@@ -18,7 +18,12 @@
 
 ### **第三步：**
 
-![安装教程03](https://github.com/user-attachments/assets/5b825b75-f435-4377-9e76-bcb7f36e25ad)
+![安装教程03](https://github.com/user-attachments/assets/90493fad-14c1-4c53-aa9d-ba01766fa5ff)
+
+
+### **第四步：**
+
+![安装教程04](https://github.com/user-attachments/assets/27428129-2412-4b3d-8701-95956abeca8e)
 
 ---
 
