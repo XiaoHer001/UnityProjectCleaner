@@ -8,15 +8,15 @@
 
 ## **安装步骤**
 
-## **第一步：**
+### **第一步：**
 
 ![安装教程01](https://github.com/user-attachments/assets/0cd458a4-e9b8-445c-9ce6-96da9e0ade4a)
 
-## **第二步：**
+### **第二步：**
 
 ![安装教程02](https://github.com/user-attachments/assets/4d4a9077-d0aa-4760-b329-d31affa4848f)
 
-## **第三步：**
+### **第三步：**
 
 ![安装教程03](https://github.com/user-attachments/assets/5b825b75-f435-4377-9e76-bcb7f36e25ad)
 
