@@ -6,24 +6,9 @@
 
 ---
 
-## **安装步骤**
+## **使用教程**
 
-### **第一步：**
-
-![安装教程01](https://github.com/user-attachments/assets/0cd458a4-e9b8-445c-9ce6-96da9e0ade4a)
-
-### **第二步：**
-
-![安装教程02](https://github.com/user-attachments/assets/4d4a9077-d0aa-4760-b329-d31affa4848f)
-
-### **第三步：**
-
-![安装教程03](https://github.com/user-attachments/assets/90493fad-14c1-4c53-aa9d-ba01766fa5ff)
-
-
-### **第四步：**
-
-![安装教程04](https://github.com/user-attachments/assets/27428129-2412-4b3d-8701-95956abeca8e)
+![使用教程](https://github.com/user-attachments/assets/92f3c92d-ce42-4b90-98cb-7a9e1e85da68)
 
 ---
 
